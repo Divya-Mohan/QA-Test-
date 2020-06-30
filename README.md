@@ -19,9 +19,5 @@ The project has three subfolders, namely
 (web elements) as objects and the user actions as methods , thus  forming a page object model
 
 The project build fine. But the test will not pass. In order to execute test, open test explore and run the selected test. 
-Test result folder will be created in the location where the solution is saved. But at the moment it does not output anything.
+Test result folder will be created in the location where the solution is saved. But at the moment it does not output anything due to the requirement of a valid email address and employee identification number (which is unknown to me).
  
- NB:
-I did have trouble in getting spec flow work with the version of visual studio (community version) I installed in my pc.
-The project builds fine, but the test fails. I didn’t get enough time to trouble shoot and investigate further into it. 
-I’ll be happy to discuss that during the interview.
